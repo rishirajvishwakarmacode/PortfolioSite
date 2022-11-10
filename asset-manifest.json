@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PortfolioSite/static/css/main.11e53c51.css",
+    "main.js": "/PortfolioSite/static/js/main.5dd83878.js",
+    "static/media/iotproject.jpg": "/PortfolioSite/static/media/iotproject.c4357a811d7090049f49.jpg",
+    "static/media/project2img.jpg": "/PortfolioSite/static/media/project2img.7b677adc352ec91ec992.jpg",
+    "static/media/mlproject.jpg": "/PortfolioSite/static/media/mlproject.d25235e5af1a73728d56.jpg",
+    "static/media/DP1final.png": "/PortfolioSite/static/media/DP1final.49407cfda32455d648cb.png",
+    "static/media/Resume.pdf": "/PortfolioSite/static/media/Resume.f161eeebf0f69162c49a.pdf",
+    "static/media/DP2finalfinal.jpg": "/PortfolioSite/static/media/DP2finalfinal.f3d97af90ed550cbc54a.jpg",
+    "index.html": "/PortfolioSite/index.html",
+    "main.11e53c51.css.map": "/PortfolioSite/static/css/main.11e53c51.css.map",
+    "main.5dd83878.js.map": "/PortfolioSite/static/js/main.5dd83878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11e53c51.css",
+    "static/js/main.5dd83878.js"
+  ]
+}
