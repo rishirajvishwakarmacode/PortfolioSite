@@ -2,6 +2,7 @@ import React from 'react';
 import image from '../../assets/DP2finalfinal.jpg';
 import {BsAwardFill} from 'react-icons/bs';
 import {BsFolderCheck} from 'react-icons/bs';
+import {FaUserGraduate} from 'react-icons/fa';
 import '../About/About.css'
 
 const About = () => {
@@ -33,14 +34,14 @@ const About = () => {
             </article>
 
             <article className="about_card">
-              <BsFolderCheck className='about_icon'/>
-              <h5>Projects</h5>
-              <small>5+ Projects</small>
+              <FaUserGraduate className='about_icon'/>
+              <h5>Education</h5>
+              <small>B.Tech. ECE</small>
             </article>
 
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus id fuga, corporis laboriosam assumenda et minima distinctio. Rem corporis quam, mollitia veritatis maxime necessitatibus porro beatae libero natus dolorem perferendis!</p>
+          <p>Despite my background in electronics, my interests have always centred on software and data science. My interest in data science and machine learning came about as a result of my involvement in certain Real Life projects relating to business and technology.</p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
